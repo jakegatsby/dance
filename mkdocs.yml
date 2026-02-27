@@ -1,0 +1,9 @@
+site_name: Ballroom Syllabus
+site_url: https://jakegatsby.github.io/ballroom-syllabus/
+docs_dir: src
+theme:
+  name: material
+nav:
+- Syllabi:
+  - Hustle: syllabi/hustle.md
+  - "East Coast Swing": syllabi/east-coast-swing.md

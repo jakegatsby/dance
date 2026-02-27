@@ -1,4 +1,4 @@
-# Dance Docs
+# 🎵 Dance Docs 🎵
 
 <div class="grid cards" markdown>
 

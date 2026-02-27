@@ -3,6 +3,8 @@ site_url: https://jakegatsby.github.io/dance/
 docs_dir: src
 theme:
   name: material
+  palette:
+  - scheme: slate
 nav:
 - Home: index.md
 - Syllabi:

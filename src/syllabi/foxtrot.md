@@ -1,22 +1,31 @@
 # Foxtrot Syllabus
 
-## Foxtrot 1-7
 
-- feather step
-- reverse turn
-- feather finish
-- hover telemark
-- natural fallaway
-- outside swivel
-- basic weave
+<div class="grid cards" markdown>
 
-## Foxtrot 8-15
+-   ## Foxtrot 1-7
 
-- fallaway slip pivot
-- change of direction
-- three step
-- natural turn
-- back feather
-- curving reverse wave
-- viennese cross with reverse pivot
-- contra check
+    ---
+
+    - feather step
+    - reverse turn
+    - feather finish
+    - hover telemark
+    - natural fallaway
+    - outside swivel
+    - basic weave
+
+-   ## Foxtrot 8-15
+
+    ---
+
+    - fallaway slip pivot
+    - change of direction
+    - three step
+    - natural turn
+    - back feather
+    - curving reverse wave
+    - viennese cross with reverse pivot
+    - contra check
+
+</div>

@@ -1,5 +1,5 @@
-site_name: Ballroom Syllabus
-site_url: https://jakegatsby.github.io/ballroom-syllabus/
+site_name: Dance Docs
+site_url: https://jakegatsby.github.io/dance/
 docs_dir: src
 theme:
   name: material

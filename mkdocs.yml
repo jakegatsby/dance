@@ -4,6 +4,7 @@ docs_dir: src
 theme:
   name: material
 nav:
+- Home: index.md
 - Syllabi:
   - Hustle: syllabi/hustle.md
   - "East Coast Swing": syllabi/east-coast-swing.md

@@ -1,4 +1,4 @@
-# East Coast Swing Syllabus
+# 🎸 East Coast Swing Syllabus 🎸
 
 <div class="grid cards" markdown>
 

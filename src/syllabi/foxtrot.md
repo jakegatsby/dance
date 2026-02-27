@@ -1,4 +1,4 @@
-# Foxtrot Syllabus
+# 🦊 Foxtrot Syllabus 🦊
 
 
 <div class="grid cards" markdown>

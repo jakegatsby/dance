@@ -2,6 +2,7 @@
 
 ## ECS Bronze 1-5
 
+- basic
 - turning basic right
 - turning basic left
 - throw out
@@ -12,7 +13,8 @@
 
 - underarm release from basic
 - free-spin tuck-in from handshake
-- underarm tuck-in
+- free-spin tuck-in from double handhold
+- underarm tuck-in from double handhold
 - alternating underarm turn
 - shoulder check
 - cradle

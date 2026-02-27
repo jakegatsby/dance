@@ -5,6 +5,8 @@ theme:
   name: material
   palette:
   - scheme: slate
+extra_css:
+- stylesheets/custom.css
 nav:
 - Home: index.md
 - Syllabi:

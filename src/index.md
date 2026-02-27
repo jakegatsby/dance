@@ -2,23 +2,17 @@
 
 <div class="grid cards" markdown>
 
--   __East Coast Swing__
+-   __Syllabus__
 
     ---
 
-    [Syllabus](syllabi/east-coast-swing.md)
+    [East Cost Swing](syllabi/east-coast-swing.md)
 
--   __Foxtrot__
 
-    ---
+    [Foxtrot](syllabi/foxtrot.md)
 
-    [Syllabus](syllabi/foxtrot.md)
 
--   __Hustle__
-
-    ---
-
-    [Syllabus](syllabi/hustle.md)
+    [Hustle](syllabi/hustle.md)
 
 
 </div>

@@ -7,6 +7,9 @@ theme:
   - scheme: slate
 extra_css:
 - stylesheets/custom.css
+markdown_extensions:
+- attr_list
+- md_in_html
 nav:
 - Home: index.md
 - Syllabi:

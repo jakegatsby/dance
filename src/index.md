@@ -1,5 +1,24 @@
 # Dance Docs
 
-General info for ballroom and Latin dancing.
+<div class="grid cards" markdown>
 
-Use the menu located in the top nav on mobile or the left panel on desktop.
+-   __East Coast Swing__
+
+    ---
+
+    [Syllabus](syllabi/east-coast-swing.md)
+
+-   __Foxtrot__
+
+    ---
+
+    [Syllabus](syllabi/foxtrot.md)
+
+-   __Hustle__
+
+    ---
+
+    [Syllabus](syllabi/hustle.md)
+
+
+</div>

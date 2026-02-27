@@ -1,3 +1,8 @@
+h1 {
+    text-align: center;
+}
+
+
 @media (max-width: 767px) {
   .md-typeset {
     font-size: 1.2rem;

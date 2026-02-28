@@ -1,0 +1,22 @@
+[project]
+site_name = "Dance Docs"
+site_url = "https://jakegatsby.github.io/dance/"
+extra_css = ["stylesheets/extra.css"]
+
+
+nav = [
+    { "Home" = "index.md" },
+    { "Syllabi" =  [
+        { "East Coast Swing" = "syllabi/east-coast-swing.md" },
+        { "Foxtrot" = "syllabi/foxtrot.md" },
+        { "Hustle" = "syllabi/hustle.md" },
+    ]},
+]
+
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+
+
+

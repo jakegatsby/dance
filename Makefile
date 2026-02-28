@@ -3,16 +3,17 @@ MAKEFLAGS += --always-make
 
 
 build: clean
-	mkdocs build -d docs
+	cd src && zensical build
+	mv src/site docs/
 
 clean:
-	rm docs -rf
+	rm src/site -rf
 
 push:
 	git add -A
 	git commit -m "$$(date -Is)"
 	git push
 
-
 serve:
-	mkdocs serve
+	cd src && zensical serve
+

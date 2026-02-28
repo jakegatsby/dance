@@ -7,6 +7,7 @@ build: clean
 	mv src/site docs/
 
 clean:
+	rm docs -rf
 	rm src/site -rf
 
 push:

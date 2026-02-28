@@ -20,9 +20,9 @@
 
     - underarm release from basic
     - tuck-ins:
-      - free-spin tuck-in from handshake
-      - free-spin tuck-in from double handhold
-      - underarm tuck-in from double handhold
+        - free-spin tuck-in from handshake
+        - free-spin tuck-in from double handhold
+        - underarm tuck-in from double handhold
     - alternating underarm turn
     - shoulder check
     - cradle

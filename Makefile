@@ -12,3 +12,7 @@ push:
 	git add -A
 	git commit -m "$$(date -Is)"
 	git push
+
+
+serve:
+	mkdocs serve

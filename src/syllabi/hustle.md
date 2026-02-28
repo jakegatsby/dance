@@ -1,4 +1,5 @@
-# 🕺 Hustle Syllabus 🕺
+# 🕺 🕺 🕺
+# Hustle Syllabus
 
 <div class="grid cards" markdown>
 

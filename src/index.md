@@ -1,4 +1,5 @@
-# 🎵 Dance Docs 🎵
+# 🎵 🎵 🎵
+# Dance Docs
 
 <div class="grid cards" markdown>
 
@@ -6,7 +7,7 @@
 
     ---
 
-    ## [🎸 East Cost Swing](syllabi/east-coast-swing.md)
+    ## [🎸 East Coast Swing](syllabi/east-coast-swing.md)
 
 
     ## [🦊 Foxtrot](syllabi/foxtrot.md)

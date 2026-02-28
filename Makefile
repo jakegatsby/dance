@@ -3,7 +3,7 @@ MAKEFLAGS += --always-make
 
 
 build: clean
-	cd src && zensical build
+	cd src && zensical build --clean
 	mv src/site docs/
 
 clean:

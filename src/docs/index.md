@@ -15,6 +15,8 @@ hide:
 
     ---
 
+    #### [💃 Bolero](syllabi/bolero.md)
+
     #### [🎸 East Coast Swing](syllabi/east-coast-swing.md)
 
     #### [🦊 Foxtrot](syllabi/foxtrot.md)

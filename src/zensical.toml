@@ -13,8 +13,7 @@ nav = [
     ]},
 ]
 
-
-[[project.theme.palette]]
+[project.theme.palette]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 

@@ -1,9 +1,20 @@
-# 🎸 🎸 🎸
-# East Coast Swing Syllabus
+---
+hide:
+- toc
+- navigation
+- path
+- feedback
+---
+
+[![Dance Docs](../img/dance-docs.png)](../index.md)
+
+### East Coast Swing Syllabus
+### 🎸 🎸 🎸
+
 
 <div class="grid cards" markdown>
 
--   ## ECS Bronze 1-5
+-   ### ECS Bronze 1-5
 
     ---
 
@@ -14,7 +25,7 @@
     - inside underarm turn
 
 
--   ## ECS Bronze 6-10
+-   ### ECS Bronze 6-10
 
     ---
 
@@ -28,7 +39,7 @@
     - cradle
 
 
--   ## ECS Bronze 11-15
+-   ### ECS Bronze 11-15
 
     ---
 

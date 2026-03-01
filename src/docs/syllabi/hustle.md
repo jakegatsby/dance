@@ -1,9 +1,20 @@
-# 🕺 🕺 🕺
-# Hustle Syllabus
+---
+hide:
+- toc
+- navigation
+- path
+- feedback
+---
+
+[![Dance Docs](../img/dance-docs.png)](../index.md)
+
+### Hustle Syllabus
+### 🕺 🕺 🕺
+
 
 <div class="grid cards" markdown>
 
--   ## Hustle Bronze 1-7
+-   ### Hustle Bronze 1-7
 
     ---
 
@@ -18,7 +29,7 @@
     - two hand hold
     - double hand hold bridges
 
--   ## Hustle Bronze 8-15
+-   ### Hustle Bronze 8-15
 
     ---
 

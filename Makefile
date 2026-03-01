@@ -2,6 +2,12 @@ SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
 
+help:
+	@echo "FIXME"
+
+all: build push
+
+
 build: clean
 	cd src && zensical build --clean
 	mv src/site docs/

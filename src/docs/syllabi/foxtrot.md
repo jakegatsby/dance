@@ -1,10 +1,19 @@
-# 🦊 🦊 🦊
-# Foxtrot Syllabus
+---
+hide:
+- toc
+- navigation
+- path
+- feedback
+---
 
+[![Dance Docs](../img/dance-docs.png)](../index.md)
+
+### Foxtrot Syllabus
+### 🦊 🦊 🦊
 
 <div class="grid cards" markdown>
 
--   ## Foxtrot 1-7
+-   ### Foxtrot 1-7
 
     ---
 
@@ -16,7 +25,7 @@
     - outside swivel
     - basic weave
 
--   ## Foxtrot 8-15
+-   ### Foxtrot 8-15
 
     ---
 

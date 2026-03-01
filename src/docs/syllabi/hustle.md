@@ -18,13 +18,15 @@ hide:
 
     ---
 
+    <audio controls><source src="../../audio/hustle-bronze-1-7.mp3" type="audio/mpeg"></audio>
+
     - hesitation
     - wheel
     - underarm turn combination (follow/lead/follow)
     - leader's behind the back pass
     - follower's bridge with return
     - cross-body lead
-    - cross-body lean to open break with return
+    - cross-body lead to open break with return
     - face loop
     - two hand hold
     - double hand hold bridges
@@ -32,6 +34,8 @@ hide:
 -   ### Hustle Bronze 8-15
 
     ---
+
+    <audio controls><source src="../../audio/hustle-bronze-8-15.mp3" type="audio/mpeg"></audio>
 
     - the whip
     - cradle with continuous left

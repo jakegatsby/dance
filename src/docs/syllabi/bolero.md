@@ -14,7 +14,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   ### Bolero Bronze
+-   ### Bolero Bronze 1-5
 
     ---
 

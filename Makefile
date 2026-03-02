@@ -1,11 +1,19 @@
 SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
-# FIXME - chafa --scale max logo.pn
-
 
 help:
-	@echo "FIXME"
+	@echo
+	@chafa --scale 0.4 src/docs/img/dance-docs.png
+	@echo
+	@echo
+	@echo "Commands:"
+	@echo "  all                            clean -> build -> push"
+	@echo "  clean                          rm /docs and src/site"
+	@echo "  build                          zensical build"
+	@echo "  push                           add, commit, push"
+	@echo "  serve                          zensical serve"
+	@echo
 
 all: build push
 

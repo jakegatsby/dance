@@ -7,10 +7,10 @@ extra_css = ["stylesheets/extra.css"]
 nav = [
     { "Home" = "index.md" },
     { "Syllabi" =  [
-        { "Bolero" = "syllabi/bolero.md" },
-        { "East Coast Swing" = "syllabi/east-coast-swing.md" },
-        { "Foxtrot" = "syllabi/foxtrot.md" },
-        { "Hustle" = "syllabi/hustle.md" },
+        { "Bolero" = "syllabus/bolero.md" },
+        { "East Coast Swing" = "syllabus/east-coast-swing.md" },
+        { "Foxtrot" = "syllabus/foxtrot.md" },
+        { "Hustle" = "syllabus/hustle.md" },
     ]},
 ]
 

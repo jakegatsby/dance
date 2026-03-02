@@ -1,6 +1,8 @@
 SHELL := /bin/bash
 MAKEFLAGS += --always-make
 
+# FIXME - chafa --scale max logo.pn
+
 
 help:
 	@echo "FIXME"

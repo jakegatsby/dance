@@ -3,7 +3,6 @@ site_name = "Dance Docs"
 site_url = "https://jakegatsby.github.io/dance/"
 extra_css = ["stylesheets/extra.css"]
 
-
 nav = [
     { "Home" = "index.md" },
     { "Syllabi" =  [
@@ -11,6 +10,9 @@ nav = [
         { "East Coast Swing" = "syllabus/east-coast-swing.md" },
         { "Foxtrot" = "syllabus/foxtrot.md" },
         { "Hustle" = "syllabus/hustle.md" },
+    ]},
+    { "Routines" =  [
+        { "ECS 2026 Spring Showcase" = "routines/ecs-showcase-2026-spring.md" },
     ]},
 ]
 

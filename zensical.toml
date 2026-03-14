@@ -11,9 +11,6 @@ nav = [
         { "Foxtrot" = "syllabus/foxtrot.md" },
         { "Hustle" = "syllabus/hustle.md" },
     ]},
-    { "Routines" =  [
-        { "ECS 2026 Spring Showcase" = "routines/ecs-showcase-2026-spring.md" },
-    ]},
 ]
 
 [project.theme.palette]

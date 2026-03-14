@@ -24,10 +24,4 @@ hide:
     #### [🕺 Hustle](syllabus/hustle.md)
 
 
--   ### __Routines__
-
-    ---
-
-    #### [🎸 ECS 2026 Spring Showcase](routines/ecs-showcase-2026-spring.md)
-
 </div>
